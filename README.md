@@ -24,6 +24,7 @@ https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/emsmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emsmoraes" height="30" width="40" /></a>
 <a href="https://medium.com/@eduardomoraesdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardomoraesdeveloper" height="30" width="40" /></a>
 </p>
 
