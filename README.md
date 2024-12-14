@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsmoraes&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="emsmoraes" /> </p>
 
+- 🔭 Atualmente estou trabalhando com **React, Next Typescript and Nest.js**
+  
 - 🌱 Atualmente estou aprendendo **C# e .NET**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/emsmoraes?tab=repositories](https://github.com/emsmoraes?tab=repositories)
