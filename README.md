@@ -9,7 +9,7 @@
 
 - 📝 Eu regularmente escrevo artigos em [https://medium.com/@eduardomoraesdeveloper](https://medium.com/@eduardomoraesdeveloper)
 
-- 💬 Pergunte-me sobre **React, Next, Nest, Node, Javascript, Typescript e C#**
+- 💬 Tenho muito interesse em **React, Next, Nest, Node, Javascript, Typescript e C#**
 
 - 📫 Como me contatar **eduardomoraesdeveloper@gmail.com**
 
