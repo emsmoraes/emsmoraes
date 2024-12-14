@@ -32,6 +32,8 @@ https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ts" height="40" alt="Logo do TypeScript" />
 <img width="4" />
+<img src="https://skillicons.dev/icons?i=csharp" height="40" alt="Logo do TypeScript" />
+<img width="4" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="Logo do ReactJS" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Logo do NextJS" />
@@ -39,12 +41,6 @@ https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-
 <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Logo do Styled-Components" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Logo do Tailwind CSS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Logo do Netlify" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Logo do Vercel" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Logo do Android Studio" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Logo do Vite" />
 
@@ -60,29 +56,17 @@ https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Logo do NestJS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Logo do Supabase" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Logo do Docker" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Logo do AWS" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Logo do Microsoft Azure" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Logo do Heroku" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Logo do Git" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="Logo do GitHub" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Logo do Bitbucket" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=npm" height="40" alt="Logo do NPM" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Logo do Yarn" />
-
-<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Logo do Figma" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Logo do Photoshop" />
 </div>
 
 <p/>
