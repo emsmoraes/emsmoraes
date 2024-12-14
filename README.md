@@ -84,6 +84,8 @@
 <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
 </div>
 
+<p/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoraes&show_icons=true&locale=en&layout=compact" alt="emsmoraes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoraes&show_icons=true&locale=en" alt="emsmoraes" /></p>
