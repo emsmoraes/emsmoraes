@@ -32,7 +32,7 @@ https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ts" height="40" alt="Logo do TypeScript" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=csharp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="Logo do C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="Logo do C#" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="Logo do ReactJS" />
 <img width="4" />
