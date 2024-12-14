@@ -1,93 +1,94 @@
-<h1 align="center">Hi 👋, I'm Eduardo Meneses</h1>
+<h1 align="center">Oi 👋, eu sou Eduardo Meneses</h1>
 <h3 align="center">Desenvolvedor Fullstack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emsmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="emsmoraes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emsmoraes&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="emsmoraes" /> </p>
 
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 Atualmente estou aprendendo **C#, .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emsmoraes?tab=repositories](https://github.com/emsmoraes?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/emsmoraes?tab=repositories](https://github.com/emsmoraes?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@eduardomoraesdeveloper](https://medium.com/@eduardomoraesdeveloper)
+- 📝 Eu regularmente escrevo artigos em [https://medium.com/@eduardomoraesdeveloper](https://medium.com/@eduardomoraesdeveloper)
 
-- 💬 Ask me about **React, Next, Nest, Node, Javascript, Typescrip and C#**
+- 💬 Pergunte-me sobre **React, Next, Nest, Node, Javascript, Typescript e C#**
 
-- 📫 How to reach me **eduardomoraesdeveloper@gmail.com**
+- 📫 Como me contatar **eduardomoraesdeveloper@gmail.com**
 
-- 📄 Know about my experiences [https://www.edudeveloper.com.br/](https://www.edudeveloper.com.br/)
+- 📄 Saiba mais sobre minhas experiências [https://www.edudeveloper.com.br/](https://www.edudeveloper.com.br/)
 
-### Blogs posts
+### Postagens no blog
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-react-r%C3%A1pido-e-eficiente-fd30fa7d8d6d
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://medium.com/@eduardomoraesdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardomoraesdeveloper" height="30" width="40" /></a>
 </p>
 
-### Technologies
+### Tecnologias
 
 <div text-align="justify">  
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="Logo do JavaScript" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="Logo do TypeScript" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="Logo do ReactJS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Logo do NextJS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components logo" />
+<img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Logo do Styled-Components" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Logo do Tailwind CSS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Logo do Netlify" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Logo do Vercel" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Logo do Android Studio" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Logo do Vite" />
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Logo do NodeJS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Logo do Prisma ORM" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Logo do PostgreSQL" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Logo do MySQL" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Logo do Express" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Logo do NestJS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Logo do Supabase" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Logo do Docker" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="Logo do AWS" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure logo" />
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Logo do Microsoft Azure" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" />
+<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Logo do Heroku" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Logo do Git" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="Logo do GitHub" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
+<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Logo do Bitbucket" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="Logo do NPM" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+<img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Logo do Yarn" />
 
-<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Logo do Figma" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Logo do Photoshop" />
 </div>
 
 <p/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoraes&show_icons=true&locale=en&layout=compact" alt="emsmoraes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoraes&show_icons=true&locale=pt-br&layout=compact" alt="emsmoraes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoraes&show_icons=true&locale=en" alt="emsmoraes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoraes&show_icons=true&locale=pt-br" alt="emsmoraes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emsmoraes&" alt="emsmoraes" /></p>
