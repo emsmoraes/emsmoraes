@@ -24,8 +24,65 @@
 <a href="https://medium.com/@eduardomoraesdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardomoraesdeveloper" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Technologies
+
+<div text-align="justify">  
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoraes&show_icons=true&locale=en&layout=compact" alt="emsmoraes" /></p>
 
