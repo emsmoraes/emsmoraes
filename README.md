@@ -31,49 +31,43 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
 <a href="https://medium.com/@eduardomoraesdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardomoraesdeveloper" height="30" width="40" /></a>
 </p>
 
-### Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<div text-align="justify">  
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="Logo do JavaScript" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="Logo do TypeScript" />
-<img width="4" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="Logo do C#" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="Logo do ReactJS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Logo do NextJS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Logo do Styled-Components" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Logo do Tailwind CSS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Logo do Vite" />
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Logo do NodeJS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Logo do Prisma ORM" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Logo do PostgreSQL" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Logo do MySQL" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=express" height="40" alt="Logo do Express" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Logo do NestJS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Logo do Docker" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="Logo do AWS" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Logo do Microsoft Azure" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Logo do Git" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="Logo do GitHub" />
-<img width="4" />
-<img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Logo do Yarn" />
+### 🌐 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
 </div>
+
+### 🖥️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+</div>
+
+### ☁️ DevOps e Infraestrutura
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
+</div>
+
+### 🛠️ Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn" />
+</div>
+
 
 <p/>
 
