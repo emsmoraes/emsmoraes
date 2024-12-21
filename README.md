@@ -34,7 +34,7 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🌐 Frontend
-<div align="center">
+<div style="text-align: justify;">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" />
@@ -45,7 +45,7 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
 </div>
 
 ### 🖥️ Backend
-<div align="center">
+<div style="text-align: justify;">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
@@ -55,14 +55,19 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
 </div>
 
 ### ☁️ DevOps e Infraestrutura
-<div align="center">
+<div style="text-align: justify;">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
 </div>
 
+### 💻 Outras Tecnologias
+<div style="text-align: justify;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+</div>
+
 ### 🛠️ Ferramentas
-<div align="center">
+<div style="text-align: justify;">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn" />
