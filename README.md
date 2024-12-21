@@ -17,10 +17,13 @@
 
 - 📄 Saiba mais sobre minhas experiências [https://www.edudeveloper.com.br/](https://www.edudeveloper.com.br/)
 
-### Postagens no blog
-<!-- BLOG-POST-LIST:START -->
-https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-react-r%C3%A1pido-e-eficiente-fd30fa7d8d6d
-<!-- BLOG-POST-LIST:END -->
+## 📚 Postagens no Blog
+
+Confira algumas das minhas publicações no Medium sobre React e tecnologias relacionadas:
+
+1. [Virtual DOM: A tecnologia que torna o React rápido e eficiente](https://medium.com/@eduardomoraesdeveloper/virtual-dom-a-tecnologia-que-torna-o-react-r%C3%A1pido-e-eficiente-fd30fa7d8d6d)
+2. [Entendendo useMemo e useCallback: Otimização de desempenho no React](https://medium.com/@eduardomoraesdeveloper/entendendo-usememo-e-usecallback-otimiza%C3%A7%C3%A3o-de-desempenho-no-react-39ea527418c1)
+3. [Desvendando Hooks Personalizados no React: Poder e simplicidade na lógica reutilizável](https://medium.com/@eduardomoraesdeveloper/desvendando-hooks-personalizados-no-react-poder-e-simplicidade-na-l%C3%B3gica-reutiliz%C3%A1vel-0655850c9454)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
