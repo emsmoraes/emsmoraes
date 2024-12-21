@@ -15,7 +15,7 @@
 
 - 📫 Como me contatar **eduardomoraesdeveloper@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [https://www.edudeveloper.com.br/](https://www.edudeveloper.com.br/)
+- 🌐 Saiba mais sobre minhas experiências [https://www.edudeveloper.com.br/](https://www.edudeveloper.com.br/)
 
 ## 📚 Postagens no Blog
 
