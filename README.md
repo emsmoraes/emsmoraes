@@ -50,6 +50,8 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="Dotnet" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 </div>
@@ -59,11 +61,6 @@ Confira algumas das minhas publicações no Medium sobre React e tecnologias rel
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
-</div>
-
-### 💻 Outras Tecnologias
-<div style="text-align: justify;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </div>
 
 ### 🛠️ Ferramentas
